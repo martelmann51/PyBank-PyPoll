@@ -1,0 +1,14 @@
+
+
+PyPoll Analysis
+-------------------------
+Total Votes: 3521001
+Name of Candidates: ['Khan', 'Correy', 'Li', "O'Tooley"]
+Votes for Khan: 2218231
+Votes for Correy: 704200
+Votes for Li: 492940
+Votes for OTooley: 105630
+Votes for Khan (%): 63
+Votes for Correy(%): 20
+Votes for Li(%): 14
+Votes for OTooley(%): 3
